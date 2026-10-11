@@ -1,2 +1,2 @@
 # ETFs-Monitor
-ETFs tracked
+ETFs tracker
